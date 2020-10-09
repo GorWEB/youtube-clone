@@ -1,0 +1,14 @@
+.content{
+    flex: .8;
+    background-color:#f7f7f7;
+    padding: 25px 20px;
+    padding-bottom: 0;
+}
+.content>h2{
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+.content__videos{
+    display: flex;
+    flex-wrap: wrap;
+}
